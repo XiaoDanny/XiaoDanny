@@ -1,10 +1,10 @@
 # Daniel Coyle
 
 Incoming SWE at Akamai (Control Plane, Inference Cloud).
+
 CS grad, UC Irvine. Pursuing MS CS at Georgia Tech (OMSCS).
 
-Currently reverse-engineering the closed-source Halo: MCC binary to restore
-local split-screen co-op on PC — writing C++ runtime hooks (MinHook) and
-fixing the input/controller subsystem. [https://github.com/megabitt01/AlphaRing]
+Currently Reverse-engineering and decompiling the closed-source Halo: MCC engine in C++ to understand systems
+undocumented by the original developers. Designing and implementing runtime hooks with MinHook to add features not originally supported in the source code. [https://github.com/megabitt01/AlphaRing]
 
 📍 Birmingham, AL · ✉️ danieljcoyle02@gmail.com

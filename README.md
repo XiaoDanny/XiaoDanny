@@ -1,6 +1,6 @@
 # Daniel Coyle
 
-Incoming SWE at Akamai (Control Plane, Inference Cloud) — starting Oct 2026.
+Incoming SWE at Akamai (Control Plane, Inference Cloud).
 CS grad, UC Irvine. Pursuing MS CS at Georgia Tech (OMSCS).
 
 Currently reverse-engineering the closed-source Halo: MCC binary to restore
